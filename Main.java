@@ -4,6 +4,8 @@ public class Main {
 
         String[] nomeCognomeStudenti = new String[6];
         System.out.println("Roccaldo Digrisolo");
+        System.out.println("Ubaldo Capalbo");
+        
     }
 
 
