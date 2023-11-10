@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Roccaldo Digrisolo");
         System.out.println("Ubaldo Capalbo");
         nomeCognomeStudenti[1] = "Agostino Arcadi";
+        System.out.println("Chiara Giovoni");
     }
 }
