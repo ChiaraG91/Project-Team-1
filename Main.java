@@ -8,6 +8,7 @@ public class Main {
         System.out.println("Chiara Giovoni");
         nomeCognomeStudenti[0] = "Chiara Giovoni";
         nomeCognomeStudenti[3] = "Roccaldo digrisolo";
+        nomeCognomeStudenti[2] = "Gianluca Mulieddi";
         for (String nomiCognomi : nomeCognomeStudenti) {
             System.out.println(nomiCognomi);
         }
