@@ -6,6 +6,6 @@ public class Main {
         System.out.println("Ubaldo Capalbo");
         nomeCognomeStudenti[1] = "Agostino Arcadi";
         System.out.println("Chiara Giovoni");
-        nomeCognomeStudenti[0] = "Chiara Giovoni"
+        nomeCognomeStudenti[0] = "Chiara Giovoni";
     }
 }
