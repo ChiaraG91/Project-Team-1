@@ -7,5 +7,9 @@ public class Main {
         nomeCognomeStudenti[1] = "Agostino Arcadi";
         System.out.println("Chiara Giovoni");
         nomeCognomeStudenti[0] = "Chiara Giovoni";
+
+        for (int i = 0; i < nomeCognomeStudenti.length; i++) {
+            System.out.println(nomeCognomeStudenti[i]);
+        }
     }
 }
