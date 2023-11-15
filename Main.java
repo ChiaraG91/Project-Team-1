@@ -7,6 +7,9 @@ public class Main {
         nomeCognomeStudenti[1] = "Agostino Arcadi";
         System.out.println("Chiara Giovoni");
         nomeCognomeStudenti[0] = "Chiara Giovoni";
-        nomeCognomeStudenti[3] = "Roccaldo Digrisolo";
+
+        for (String nomiCognomi : nomeCognomeStudenti) {
+            System.out.println(nomiCognomi);
+        }
     }
 }
