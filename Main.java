@@ -13,7 +13,7 @@ public class Main {
         for (String nomiCognomi : nomeCognomeStudenti) {
             System.out.println(nomiCognomi);
         }
-        String[] dataNascitaStudeni = new String[5];
+        String[] dataNascitaStudenti = new String[5];
 
         dataNascitaStudeni[4] = "28/11/2003";
     }
