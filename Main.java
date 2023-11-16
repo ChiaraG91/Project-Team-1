@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args){
-        String[] nomeCognomeStudenti = new String[6];
+        String[] nomeCognomeStudenti = new String[5];
 
         System.out.println("Roccaldo Digrisolo");
         System.out.println("Ubaldo Capalbo");
@@ -13,5 +13,8 @@ public class Main {
         for (String nomiCognomi : nomeCognomeStudenti) {
             System.out.println(nomiCognomi);
         }
+        String[] dataNascitaStudeni = new String[5];
+
+        dataNascitaStudeni[4] = "28/11/2003";
     }
 }
