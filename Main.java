@@ -16,5 +16,6 @@ public class Main {
         String[] dataNascitaStudenti = new String[5];
 
         dataNascitaStudenti[4] = "28/11/2003";
+        dataNascitaStudenti[5] = "12/03/2000";
     }
 }
