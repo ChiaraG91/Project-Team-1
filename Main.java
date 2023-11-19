@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args){
-        String[] nomeCognomeStudenti = new String[5];
+        String[] nomeCognomeStudenti = new String[6];
 
         System.out.println("Roccaldo Digrisolo");
         nomeCognomeStudenti[5] = "Ubaldo Capalbo";
